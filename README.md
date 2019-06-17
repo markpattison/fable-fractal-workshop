@@ -1,5 +1,7 @@
 # fable-fractal-workshop
 
+Clone this repo from <https://github.com/markpattison/fable-fractal-workshop>
+
 This example is based on the [Fable 2.1 Minimal App](https://github.com/fable-compiler/fable2-samples/tree/master/minimal).
 
 ## Requirements
