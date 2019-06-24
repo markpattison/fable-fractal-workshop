@@ -46,6 +46,8 @@ For this task you'll have to:
 
 Find where the `seed` value is used in the `pixelResult` method and replace it with `zOrig`.  Do you recognise this fractal?
 
+Change it back afterwards!
+
 ### 5. Experiment with rendering the fractal
 
 Try changing the fractal function or colour map, or varying the seed values passed to the `draw` message in line with `timeloop`.
